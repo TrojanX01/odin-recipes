@@ -1,0 +1,10 @@
+body {background-color: black; color: white; font-family: Cambria, serif;}
+
+a {color: blue;}
+
+.heading {background-color: yellow; color: black; border-color: red; border-style: dashed; border-width: 0.125em; font-family: "Brush Script MT", cursive; font-weight: 900; font-size: 30px; width: 140px}
+
+.descp {font-family: monospace; color: #3d28ed;}
+
+h1 {background-color: yellow; color: black; border-style: ridge; border-color: red; border-width: 0.25em; font-weight: 1000; text-align: center;}
+.heading.second {width: 70px;}
